@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate on ...Web Development projects
 - 🤔 I’m looking for help with ...Problem solving skills
 - 💬 Ask me about ...The Operating System,Ethical Hacking.
-- 📫 How to reach me: ...https://sai-kiran-portfolio.vercel.app/
+- 📫 How to reach me: ...https://saikiran11461.github.io/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
